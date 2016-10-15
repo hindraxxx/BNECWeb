@@ -1,0 +1,31 @@
+.login-box
+{
+	background:#FFFFFF !important;
+	width: 450px;
+	height: 250px;
+	border-radius: 5%;
+	border-style: solid;
+	border-color: #1EBDA5;
+}
+.theme-color
+{
+	background:#1EBDA5;
+	color: #FFFFFF;	
+}
+.nav-admin
+{
+	height: 100%;
+	width: 240px;	
+	position: fixed;
+
+	background:#1EBDA5;
+}
+
+.nav-special
+{
+	width: 225px;
+	background:#FAFAFA !important;
+	height: 100% !important;	
+}
+
+
